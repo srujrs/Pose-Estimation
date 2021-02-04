@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Automated Posture Analysis and Similarity Statistics
 
-You can use the [editor on GitHub](https://github.com/srujrs/Pose-Estimation/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Our project aims at providing a comparison and analysis between two people performing a similar task.  We would analyse the movements of the 2 individuals using computer vision. 
+This application has great usage especially when it comes to areas which require physical training. For example, when it comes to sports or dance, coaches can pre-record a video and trainees can practice it out.
+We then collect the feed from the users, process it and report the similarities and differences for further improvement. 
+A service like this ensures that people can continue their fitness regime without facing postural difficulties and sore backs.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
