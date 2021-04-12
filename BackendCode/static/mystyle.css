@@ -1,0 +1,70 @@
+.container{
+    width: 80%;
+    margin: auto;
+}
+
+
+.form-container{
+    margin: auto;
+    width: 80%;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+
+.input-group{
+    width: 40%;
+    margin: auto;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    padding: 0;
+}
+
+
+.input-group-file{
+    border: 1px solid black;
+    border-radius: 1px;
+    padding: 0;
+    margin: auto;
+}
+
+#mybutton{
+    width: fit-content;
+    margin: auto;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+
+h1{
+    text-align: center;
+    margin: 5%;
+    font-family: math;
+    font-size: xx-large;
+}
+
+@media (max-width: 500px)
+{
+    .form-container{
+        margin: auto;
+        width: 95%;
+        border: 1px solid black;
+    }
+
+    .input-group{
+        width: 80%;
+        text-align: center;
+        margin: auto;
+        margin-top: 2%;
+        margin-bottom: 4%;
+    }
+
+}
+
+.container p{
+    text-align: center;
+}
+
+#div1{
+    margin:auto;
+}
